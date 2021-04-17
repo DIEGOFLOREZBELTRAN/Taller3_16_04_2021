@@ -15,4 +15,7 @@ menu += "2. Agregar Numero Impar\n";
 menu += "4. Ver ver Numero Par\n";
 menu += "4. Ver ver Numero Impar\n";
 menu += "0. Salir";
-
+let opc;
+		do{
+			opc = parseInt(prompt(menu));
+            let Numero
